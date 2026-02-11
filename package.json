@@ -23,13 +23,13 @@
     "start": "npx http-server . --port 3100",
     "generate-types": "npx -p typescript tsc -p tsconfig.json"
   },
-  "homepage": "https://github.com/vrtexe/htmljs#readme",
+  "homepage": "https://github.com/vrtexe/html-dom-js#readme",
   "bugs": {
-    "url": "https://github.com/vrtexe/htmljs/issues"
+    "url": "https://github.com/vrtexe/html-dom-js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vrtexe/htmljs.git"
+    "url": "git+https://github.com/vrtexe/html-dom-js.git"
   },
   "packageManager": "^npm@11.6.0"
 }
