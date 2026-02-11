@@ -1,5 +1,5 @@
-/** @import {type ElementProps, ElementDData, Children, ElementEventData } from './types/dom' */
-/** @import { type HTMLElementsAttributesMap } from './types/attributes' */
+/** @import {type ElementProps, ElementDData, Children, ElementEventData } from './types/dom.d.ts' */
+/** @import { type HTMLElementsAttributesMap } from './types/attributes.d.ts' */
 
 /**
  * @param {ElementDData<"a">} [data]
