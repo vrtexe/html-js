@@ -1,4 +1,4 @@
-import type { HTMLElementsAttributesMap } from './attributes.js';
+import type { HTMLElementsAttributesMap } from './attributes.d.ts';
 
 export type IfEquals<X, Y, A = X, B = never> =
   (<T>() => T extends X ? 1 : 2) extends <T>() => T extends Y ? 1 : 2 ? A : B;
